@@ -1,0 +1,23 @@
+{
+  "updateTime": "2020-07-15T06:16:42.153Z",
+  "amount": 1084,
+  "selfPaying": 1009.8000000000001,
+  "code": 1,
+  "name": "郑强",
+  "age": 12,
+  "gender": "男",
+  "idCard": "310000197105212195",
+  "depart": "急诊室",
+  "doctor": "武丽",
+  "drugInfoList": [
+    {
+      "drugCode": "20",
+      "drugName": "经决果联非",
+      "num": 5,
+      "unit": "盒",
+      "price": 113,
+      "contract": "自费",
+      "amount": 565
+    }
+  ]
+}
