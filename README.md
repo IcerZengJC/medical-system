@@ -24,6 +24,8 @@ yarn serve
 该项目和同学一起完成，我负责前端部分，直接调用接口，我无法提供接口，仅是把前端部分提交
 
 ### 部分效果演示
+
+医生开单系统
 ![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/1.png)
 ![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/2.png)
 ![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/3.png)
@@ -38,4 +40,13 @@ yarn serve
 ![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/12.png)
 ![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/13.png)
 ![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/14.png)
+
+挂号系统
 ![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/15.png)
+![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/16.png)
+![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/17.png)
+
+数据管理系统
+![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/18.png)
+![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/19.png)
+![123](https://gitee.com/IcerZengJC/iamge-system/raw/master/system/20.png)
